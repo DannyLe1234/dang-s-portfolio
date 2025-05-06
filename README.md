@@ -10,5 +10,5 @@ My goal is to highlight the technical skills and analytical thinking required fo
 
 Here is the list of completed projects:
 
-# [Project 1: Predicting Energy Demand in MISO and PJM market](https://dannyle1234.github.io/Predicting-Energy-Demand)
+# [Project 1: Predicting Energy Demand in MISO and PJM market](https://github.com/DannyLe1234/Predicting-Energy-Demand.git)
 > This is a final capstone group based project that I made for the course MGT301 at the University of Toronto. The objective was to build a predictive machine learning model that can predict energy demand and explore useful business insights.
