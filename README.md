@@ -6,7 +6,7 @@ Hi, Welcome to my Github page. I'm Ba Minh Dang, Le a student at the **Universit
 
 This GitHub portfolio showcases a curated collection of data analysis and business analytics projects that I’ve completed. Each repository demonstrates my ability to work with real-world datasets, apply statistical and machine learning techniques, communicate insights through clean and reproducible code across various languages and data processing tools.
 
-My goal is to highlight the technical skills and analytical thinking required for roles in Data Analysis and Business Intelligence—including proficiency in R, Python, SQL, statistical modeling, and data visualization.
+My goal is to highlight the technical skills and analytical thinking required for roles in Data Analysis and Business Intelligence—including proficiency in R, Python, SQL, Excel, statistical modeling, and data visualization.
 
 Here is the list of completed projects:
 
