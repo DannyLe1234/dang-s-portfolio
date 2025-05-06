@@ -8,10 +8,11 @@ This GitHub portfolio showcases a curated collection of data analysis and busine
 
 My goal is to highlight the technical skills and analytical thinking required for roles in Data Analysis and Business Intelligence—including proficiency in R, Python, SQL, Excel, statistical modeling, and data visualization.
 
-Here is the list of completed projects:
+List of completed projects:
 
 # [Project 1: ⚡ Forecasting Energy Demand in MISO and PJM market](https://github.com/DannyLe1234/Predicting-Energy-Demand.git)
 > This is a final capstone group based project that I made for the course MGT301 at the University of Toronto. The objective was to build a predictive machine learning model that can predict energy demand and explore useful business insights.
+
 
 # [Project 2: 🎥 Predicting IMDb Movie Gross Revenue using Multiple Linear Regression](https://github.com/DannyLe1234/Predicting-Movie-Gross-Revenue.git) 
 > This is a group based project that I made for the course **STA302: Method of Data Analysis 1** at the University of Toronto. The objective was to build a predictive model using **Multiple Linear Regression Method** and understand the key factors influencing a movie’s **Gross Revenue**, a crucial measure of financial success in the film industry.
